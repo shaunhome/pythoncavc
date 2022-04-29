@@ -1,0 +1,14 @@
+
+                What to do next?
+
+1) Look over work done here, repeat examples.
+2) Look over the remainder of the work book:
+https://app.box.com/s/u9x7cl162442vml0xxwyqkib3cj5fjpr
+https://bit.ly/3xH7RKi
+
+3) Recommended books by Colin Bell:
+
+a) Classic computer science problems in python - David Kopec.
+b) Automate the boring stuff - Al Swligani.
+c) Python for data analysis - O'Reilly
+
